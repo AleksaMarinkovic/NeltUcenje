@@ -1,0 +1,51 @@
+﻿0/Kompanija Philip Morris
+0/Tržišna pozicija PMI
+0/Share of market
+0/Portfolio PMI
+0/Portfolio konkurenata
+0/Cenovni segmenti
+0/Pregled tržišnog učešća brendova
+0/Pregled tržišnog učešća po SKU
+1/Organizaciona struktura NELT
+1/Organizaciona struktura PMI
+1/Sektori od značaja NELT
+2/Kanali prodaje PMI
+2/Vrste kupaca
+2/Modeli rada sa principalima
+2/Vrste ugovora
+2/Karakteristike i odrednice ugovora
+2/Organizacione strukture kupaca
+3/Cenovni bucketi
+3/Vrste cenovnika
+3/Struktura cena duvanskih proizvoda
+4/BEX
+4/SAP
+4/Izveštaj o prodaji
+4/Izveštaj o rutama
+4/Izvod otvorenih stavki
+4/Export faktura
+4/Pregled faktura
+4/Pregled asortimana i kategorizacija kupaca
+4/Izveštaj o trebovanju van rute
+5/Kredit limiti
+5/Blokade
+5/Praćenje dostave
+5/Asortimani i kategorizacija
+5/Ulistavanje novih artikala
+5/Raspis
+5/Povrat
+6/Vrste promotivnog materijal
+6/Segmentacija POS
+6/Izveštaj iz Store Check-a
+7/Vrste faktura
+7/Načini plaćanja
+7/Načini trebovanja
+7/Proces od poručivanja do isporuke robe
+8/Licence
+8/Nova mesta isporuke
+8/Karta kupca
+9/Volumenski cilj
+9/AV Check
+9/Coverage
+9/Strateški ciljevi
+9/MGM i MTC

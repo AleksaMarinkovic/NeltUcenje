@@ -1,0 +1,175 @@
+﻿0/Gde se nalazi fabrika Philip Morris-a?/Beograd/!Niš/Novi Sad
+0/Od koje godine je PMI prisutan na našem tržištu?/!2003.godine/2005.godine/2006.godine
+0/Od koja dva poslovna entiteta se sastoji PMI?/!PMOP i PMSE/PMO i PMSE/PMP i PME
+0/Koliko iznosi tržišno učešće PMI-a?/33,2%/!35,2%/38,2%
+0/Koja kategorija PMI-a beleži pad tržišnog učešća?/!FMC kategorija/HEETS kategorija/Obe kategorije
+0/Koji konkurent beleži najveće tržišno učešće posle PMI-a?/Japan Tobacco International/!British American Tobacco/Imperial Tobacco
+0/Na šta se odnosi kategorija FMC?/Na stikove nesagorevajućeg duvana/Na čitav portfolio PMI/!Na redovne cigarete
+0/Koji su od navedenih brendovi PMI-a?/!L&M, Eve, Bond Street/L&M, Lucky Strike, Eve/L&M, Pall Mall, Bond Street
+0/Koliko brendova PMI ima u portfoliu?/9/!8/10
+0/Koji su cenovni segmenti cigareta?/!Value,Medium i Premium/Budget,Medium i Premium/Low ,Medium i High
+0/U kom cenovnom segmentu se nalazi najveći broj PMI artikala?/Premium/Medium/!Value
+0/Kom cenovnom segmentu pripada brend Bond Street?/!Value/Medium/Premium
+0/Kom cenovnom segmentu pripada Marlboro Gold?/Value/!Premium/Medium
+0/Kom cenovnom segmentu pripada HEETS?/Value/!Medium/Premium
+0/Kom cenovnom segmentu pripada brend Marlboro?/Medium/Premium/!Medium i Premium
+0/Kom cenovnom segmentu pripada brend L&M?/!Value/Medium/Premium
+0/Koji su brendovi British American Tobacco-a?/!Pall Mall,Lucky Strike,Kent/Pall Mall, Winston, Neo/Lucky Strike,Winston,Neo
+0/Koji su brendovi Japan Tobacco International-a?/Winston,Camel,Rothmans/!Winston,Camel,LD/Camel,Sobranie,Kent
+0/Koji su brendovi Imperial Tobacco-a?/Davidoff,West,Kent/West,Winston,Monte Carlo/!Davidoff,West,P&S
+0/Ko su konkurenti PMI-u u kategoriji stikova nesagorevajućeg duvana?/!British American Tobacco/Japan Tobacco International/Oba navedena
+0/Koji je top brend na tržištu?/!Pall Mall/Marlboro/L&M
+0/Koji brendovi PMI-a su u top 5 brendova na tržištu?/Marlboro,L&M,Parliament/Eve,Marlboro,Bond Street/!L&M,Marlboro,Bond Street
+0/Koji PMI brend ima najveće tržišno učešće?/!L&M/Marlboro/Bond Street
+0/Koje su najprodavanije cigarete na tržištu?/Winston Red/!L&M Loft XL Blue/Marlboro Red
+0/Koliko iznosi tržišno učešće HEETS-a?/!2%/3%/5%
+0/U kom kanalu prodaje NEO ostvaruje veće tržišno učešće od HEETS?/Food kanalu/Kiosk kanalu/!Ni u jednom kanalu
+1/Na koja dva dela se deli čitava Nelt organizacija?/!Na distribuciju i logistiku/Na logistiku i prodaju/Na distribuciju i prodaju
+1/Da li portfolio menadžeri pripadaju menadžerskom nivou odlučivanja?/Ne/!Da/Zavisi od divizije
+1/Da li Key Account menadžeri pripadaju menadžerskom nivou odlučivanja?/Da/!Ne/Zavisi od divizije
+1/Da li OT menadžeri pripadaju menadžerskom nivou odlučivanja?/Da/!Ne/Zavisi od divizije
+1/Da li Nacionalni Key Account menadžeri pripadaju menadžerskom nivou odlučivanja?/!Da/Ne/Zavisi od divizije
+1/Kom delu organizacije pripada prodaja?/Logistika/!Distribucija/Prodaja je zaseban deo
+1/Kome direktno odgovara KAM?/NKAM-u/Division menadžeru/!Zavisi od divizije
+1/Koja je peer pozicija u PMI-u sa pozicijom KAM-a?/KAM/Menadžer prodaje/!NKAM
+1/Sa koja tri sektora je najvažnija saradnja KAM-a?/!Finansije,Logistika,Pravni sektor/Finansije,Logistika,HR sektor/Finansije i Pravni sektor
+1/Koja su tri sektora u okviru finansija sa kojima KAM sarađuje?/Kredit limit,Knjigovodstvo i Odeljenje kupaca/Računovodstvo, Kreditna kontrola i Odeljenje kupaca/!Kreditna kontrola, Odeljenje kupaca i Robno knjigovodstvo
+1/Koji su sektori u okviru logistike sa kojima KAM sarađuje?/!CS, Transport, Magacin i Planiranje/Transport, Skladištenje i Planiranje/ Skladištenje, Planiranje, Transport i Magacin
+2/Koja je osnovna podela kanala prodaje?/MT i TT kanal/!KA, LKA i GT kanal/KA i TT kanal
+2/Kom kanalu pripadaju najvažniji i najveći kupci?/!KA kanalu/KA i GT kanalu/KA i LKA kanalu
+2/Šta je GT kanal?/Kanal prodaje koji obuhvata najveće kupce/!Kanal prodaje koji obuhvata male kupce/Kanal prodaje koji obuhvata velike, ali lokalne, maloprodajne lance
+2/Koja tri kanala razlikujemo u okviru KA kanala?/!Food, Petrol i Kiosk kanal/Food i Non Food kanal/Regular,Petrol i Kiosk kanal
+2/Koji objekti spadaju u Convinience?/Grocery GT Self Service, Grocery GT Counter i kiosci/Kiosk, Super i Hipermarket/!Convinience store, Petrol convinience i Petrol station
+2/Koji objekti spadaju u Supply Services?/!Grocery GT Self Service, Grocery GT Counter i Super i Hiper marketi/Super i Hiper marketi, kiosci, Convenience store/Convinience store, Kiosk, Petrol station
+2/Šta znači Grocery GT Counter?/Kiosk/!Prodavnica u kojoj prodavac dodaje artikle/Lokalna samoposluga
+2/Šta je Convinience store?/Mala lokalna radnja/Prodavnica sa širokim asortimanom/!Prodavnice specijalizovane za pića, duvanske proizvode, slatkiše, grickalice i štampu
+2/Šta sve spada u HORECADI kanal?/!Hoteli, restorani, kafići i disko klubovi/Hoteli, restorani i kafići/Restorani, kafići, disko kubovi, hoteli, aerodromi
+2/Po kom modelu radi Nelt sa Philip Morris-om?/!Model 1: COGS=Nelt cena/Model 2: Kupimo po nižoj i zatim prodamo po višoj ceni/Kombinacija Modela 2 i  KPI-eva
+2/Kako se vrši plaćanje od strane PMI-a ka Neltu?/Fiksni iznos po prodatoj paklici/Fiksni iznos za svaki ispunjeni KPI/!Plaćanje se vrši u odnosu na procenat ostvarenog volumenskog targeta po matrici
+2/Koje su osnovne vrste ugovora koje PMI ima sa kupcima?/!Primarni i Portfolio&Aviability ugovor/Primarni i Sekundarni ugovor/Primarni, Sekundarni i Portfolio&Aviability ugovor
+2/Na šta se odnosi „Portfolio&Aviability“ ugovor?/Na vidljivost pozicija/Na posedovanje celog PMI asortimana i njegovu dostupnost/!Na ograničeni asortiman i nepostojanje OOS-a
+2/Koje su najvažnije stavke ugovora između Nelta i kupaca?/!Bankarska garancija, valuta plaćanja i način snabdevanja/Bankarska garancija i način snabdevanja/Bankarska garancija, način snabdevanja, valuta plaćanja i broj objekata
+2/Šta je bankarska garancija?/Ugovor po kojem Nelt samostalno skida novac sa računa kupca/!Sredstvo obezbeđenja kojim se banka obavezuje da će isplatiti novac ako kupac ne bude u stanju/Garancija banke da je kupac redovan u izmirivanju svojih obaveza
+2/Šta definiše valuta plaćanja?/!Posle koliko dana će biti zadnji rok za plaćanje/Koja valuta se koristi za plaćanje kupljene robe/Najjaču valutu na svetskom tržištu
+2/Kakvo može biti snabdevanje kupaca?/Decentralizovano i kapilarno/!Decentralizovano i centralno/Decentralizovano, kapilarno i centralno
+2/Na šta se odnose pozicije A,B,C i sl. u okviru PMI ugovora?/!Na Share of space/Na visinu na kojoj će biti PMI pozicije/Na oba
+2/Šta je ograničeni asortiman?/Celokupan PMI portfolio/PMI portfolio bez HEETS-a/!Dogovoreni asortiman za pojedinačan objekat
+2/Šta je Consumer Engagement?/!Promocije preko hostesa/Povezivanje sa potrošačima preko aplikacije/Povezivanje sa potrošačima putem nagradnih igara
+2/Šta je Trade Engagement?/Promocija tokom sajmova/!Targetiranje i promotivne aktivnosti koje obavljaju shop asistenti/Targetiranje i promotivne aktivnosti usmerene ka shop asistentima
+2/Šta je CCC?/!Izveštaj o tome da li su ispoštovane ugovorne stavke/Izveštaj o tome koliko svaki objekat proda PMI artikala na mesečnom nivou/Izveštaj o najprodavanijim artiklima
+3/Od čega zavisi koji cenovnik se primenjuje?/Bucket-a i bankarske garancije/Bankarske garancije i načina snabdevanja/!Bucket-a, bankarske garancije i načina snabdevanja
+3/Koliko ima bucket-a?/!5/3/6
+3/Koji je uslov za bucket 1?/Preko 2 mio stikova/Preko 100 mio stikova/!Preko 130 mio stikova
+3/Na koju cenu se obračunava rabat?/Maloprodajnu cenu/!PTP cenu/Fakturnu cenu
+3/Koliko iznosi rabat za Bucket 1?/!0,9 %/0,5%/2%
+3/Koliko iznosi rabat za Bucket 0?/1%/0,5%/!Ne postoji rabat za B0
+3/Osim bucket-a, na šta se još može dobiti rabat?/!Posedovanje bankarske garancije i centralno snabdevanje/Posedovanje visoke bankarske garancije/Posedovanje visoke bankarske garancije i centralno snabdevanje za minimum polovinu objekata
+3/Šta znači BM u cenovniku?/Cena sa bankarskom garancijom/Rabat izražen u %/!Osnovna cena
+3/Šta znači DF u cenovniku?/!Centralno snabdevanje/Rabat izražen u %/Decentralizovano snabdevanje
+3/Ko objavljuje maloprodajne cene cigareta?/!Službeni glasnik/Nelt/Philip Morris i Nelt
+3/Na šta se obračunava varijabilna akciza?/Na PTP/Na fakturnu cenu/!Na maloprodajnu cenu
+3/Od čega zavisi da li se koristi minimalna ili varijabilna akciza?/!Od toga da je maloprodajna veća ili manja od prosečno ponderisane cene/Od toga da li je PTP cena veća ili manja od prosečno ponderisane cene/Od toga da li je fakturna cena veća ili manja od prosečno ponderisane cene
+3/Na šta se obračunava PDV?/Na PTP/Na fakturnu cenu/!Na maloprodajnu cenu
+3/Šta je PTP?/Prosečno ponderisana cena/!Cena pre akciza i poreza/Minimalna akciza
+3/Koliko iznosi minimalna trgovačka marža?/!4 RSD/5 RSD/4% maloprodajne cene paklice
+3/Ko određuje procenat trgovačke marže?/Država/!PMI/Nelt
+3/Za koje cigarete ne važi trgovačka marža 12,95%?/!Loft i Parliament/Loft/Loft i Marlboro
+3/Kako se računa fakturna cena Nelta?/Maloprodajna cena-PDV-akcize-rabat/!Maloprodajna cena-PDV-marža/Maloprodajna cena-PDV-akciza-marža
+3/Da li su rabati uključeni u maržu kupca?/!Da/Ne/Samo na HEETS kategoriji
+3/Koje akcize važe na HEETS kategoriji?/Varijabilna + fiksna akciza/Samo varijabilna akciza/!Akciza po kg nesagorevajućeg duvana
+4/Koja je šifra kompanije?/!1000/Zavisi od kupca/2000
+4/Koji je distribucioni kanal PMI?/F3/C1/!C3
+4/Na koji način se podešava hijerarhija varijabli?/U polju „Variable“/!U polju „ Filter“/U polju „Characteristics“
+4/Na koji način se menja vrednost varijabli po kojima vršimo pretragu?/U polju „Filter“/Dodavanjem iz „Free Characteristics“/!U polju „Variable Screen“
+4/Koji su neki od korisnih izveštaja u SAP-u?/!IOS, Izveštaj za rute, Export faktura/Export faktura, IOS,Naplata po kupcu/Bankarske garancije, IOS, Opšte prodaja
+4/Koji izveštaj dobijamo u okviru Pojedinačnih stavki kupaca?/Izveštaj o asortimanima/Izveštaj o asortimanima i kategorizaciji objekata/!Izvod otvorenih stavki
+4/Šta je Izvod otvorenih stavki?/!Izveštaj u kom možemo videti sve neplaćene, i fakture koje dospevaju, za određenog kupca/Izveštaj o svim maloprodajnim objektima određenog kupca/Izveštaj o svim artiklima koje je poručio određeni objekat
+4/Šta je moguće videti u Izveštaju o rutama?/Raspored vozača po lokacijama na koje dostavljaju robu/!Spisak objekata po svakom radnom centru i danu kada se obilazi/Spisak objekata po radnom centru, danu kada se obilazi, i vozaču koji im dostavlja robu
+4/Kako se obuhvataju sva mesta isporuke jednog kupca?/Upisivanjem šifara objekata/Upisivanjem šifre kupca/!Upisivanjem šifre kupca i šifre kupca sa *
+4/Za šta služi export faktura?/!Da se vide svi artikli koji su poručeni po mestu isporuke/Da se vide sve dospele fakture/Za oba navedena
+4/Šta znači broj materijala?/Broj poručenih artikala/Broj poručenih bokseva/!Šifra artikla
+4/Za šta služi izveštaj F1 kupci – opšte prodaja?/!Za pregled kategorizacija i informacija o objektima/Za pregled prodaje po kupcima/Za pregled najprodavanijih artikla po mestu isporuke
+4/Za šta služi izveštaj zsizv09?/Za pregled ruta/Za pregled kategorizacija i asortimana/!Za pregled trebovanja na određeni dan
+5/Šta je kredit limit?/!Ukupan limit do kojeg određeni kupac može poručiti robu/Limit do kojeg kupac može poručiti robu na određeni dan/Ukupno zaduženje kupca
+5/Kako se povećava kredit limit?/!Slanjem popunjenog formulara povecanje.kl/Slanjem zahteva division menadžeru/Slanjem popunjenog formulara kreditnoj kontroli
+5/Šta označava Slobodno za kreditnu oblast?/Visinu kredit limita/!Limit u rsd koliko taj dan mogu poručiti kupcu/Iznos za koji je potrebno uvećati kredit limit
+5/Za šta nam ne služi kredit limit baza?/Za praćenje maksimalne godišnje iskorišćenosti po mesecima/Za praćenje prosečne godišnje iskorišćenosti po mesecima/!Za praćenje iskorišćenosti po svakom objektu kupca
+5/Šta se  popunjava u formularu za povećanje kredit limita?/Šifra, naziv kupca, objekat kupca i divizija/!Šifra kupca, datum ekstenzije i divizija/Šifra kupca, visina bankarske garancije i iznos povećanja limita
+5/Šta znači broj dana trajanja ekstenzije?/!Na koliko dana želimo da se odnosi povećanje kredit limita/Broj dana koliko je bio smanjen kredit limit ispod potrebnog nivoa/Za koliko dana će kupac izvršiti plaćanje, pa će se osloboditi kredit limit
+5/Koja je oblast k.k. za diviziju PMI?/C3/!1003/1300
+5/Do kog iznosa KAM može tražiti povećanje kredit limita?/!Do 3 miliona RSD/Do 5 miliona RSD/Do 8 miliona RSD
+5/Do kog iznosa Division menadžer može tražiti povećanje kredit limita?/Do 5 miliona RSD/!Do 8 miliona RSD/Do 12 miliona RSD
+5/Kako se prati da li je dovoljna visina bankarske garancije kupca?/Po prosečnom broju dana kašnjenja/Po iznosu ukupne prodaje kupcu/!Po poređenju sa maksimalnom i prosečnom godišnjom iskorišćenosti
+5/Preko koje platforme možemo pratiti isporuke u toku?/!Track&Trace u platfomi/SkyTrack/Preko obe
+5/Na bazi čega tražimo username i password za Track&Trace platformu?/Tražimo od sektora transporta/Na bazi mesta isporuke/!Na bazi distributivnog kanala i radnog centra
+5/Ko dogovara asortiman i kategorizaciju objekata?/!PMI/KAM u Nelt PMI diviziji/Division manager u Nelt PMI diviziji
+5/Kako se vrši provera podataka vezanih za svaki objekat?/Proverava se sa Philip Morris-om/!Preko baze objekata na t-disku/Preko baze objekata u Bex-u
+5/Kako su označeni radni centri TCR-ova?/“TCR“/“TC“/!“M“
+5/Na koji način se vrši ulistavanje novih artikala?/Slanjem podataka iz cenovnika/Popunjavanjem formulara za ulistavanje ili popunjavanjem podataka na portalu kupca/!Oba navedena
+5/Koji podaci su uvek potrebni za ulistavanje?/!Šifra, barkod, naziv artikla, cena/Šifra, barkod, cena i slika artikla/Šifra, naziv artikla, cena i slika artikla
+5/Šta treba uraditi prilikom ulistavanja za kupce na EDI platformi?/Ubaciti artikal u bazu artikala/!Ubaciti proizvod u ograničeni asortiman/Uključiti artikal u asortiman na e-orderu
+5/Šta treba uraditi prilikom ulistavanja za kupce sa import-a?/!Ubaciti artikal u bazu artikala/Ubaciti artikal u asortiman na e-orderu/Oba navedena
+5/Kako se računa količina po objektima prilikom raspisa?/Redovna količina se pomnoži sa 2/Redovna količina se pomnoži sa 1,5/!Na bazi share-a u ukupnoj prodaji
+5/Na bazi kog indexa se koriguje količina po objektima prilikom raspisa?/!Na bazi indexa sell in/ sell out/Na bazi indexa rasta/pada prodaje u kanalu kom pripada objekat/Ne koriguje se
+5/Ko može da odobri povrat?/PSS/!KAM/Oba navedena
+5/Ko sistemski definiše povrat?/!Planiranje/Transport/Prodaja
+5/Koje vrste povrata postoje?/ROG i povrat IQOS uređaja/!ROG i EOG/EOG i povrat IQOS uređaja
+5/Šta je ROG?/!Vid akcije kod kupca/Povrat prilikom lansiranja nove paklice/Povrat oštećenih i starih pakovanja
+5/Šta je EOG?/Vid akcije kod kupca/!Povrat prilikom lansiranja nove paklice/Povrat oštećenih pakovanja
+5/Koja je tvrdnja tačna?/!Kada vraćena roba ide dalje u prodaju, kupac nam izdaje fakturu/Kada vraćena roba ide dalje u prodaju, mi izdajemo kupcu fakturu/Kada vraćena roba ide dalje u prodaju, izdajemo kupcu knjižno odobrenje
+5/Prilikom EOG-a, postoji?/Prodaja/Povrat/!Oba navedena
+6/Gde je moguće postaviti promotivni materijal?/!Samo oko kase ili direktnog mesta prodaje cigareta/Oko kase, mesta prodaje i na ulazu u objekat/Bilo gde
+6/Ispod koliko cm je zabranjeno postavljati promotivni materijal?/Ispod 100cm/!Ispod 120cm/Ispod 150cm
+6/Za šta služi segmentacija maloprodajnih objekata?/Da bi znali u kojim objektima je dozvoljen POSM/!Da bi odredili u koje objekte će se postaviti koji promotivni materijal/Oba navedena
+6/Kako se radi segmentacija maloprodajnih objekata?/!Na bazi kvantitativne i kvalitativne ocene/Na bazi Kvalitativne ocene i prodaje/Na bazi proseka imidža i lokacije
+6/Od čega zavisi kvalitativna ocena objekata?/Od imidža/Od lokacije/!Od imidža i lokacije
+6/Koliko postoji kategorija u kvantitativnoj oceni?/2/!4/12
+6/Kako se dele materijali u zavisnosti od vrste objekta?/!Na Kiosk i Walk in materijale/Na Food, Kiosk i Petrol materijale/Na KA i GT materijale
+6/Koje vrste materijala postoje u odnosu na segmentaciju?/Value, Medium i Premium/!Basic, Standard i Premium/Value, Standard i Premium
+6/U koje objekte se postavljaju accessories materijali?/U Premium objekte/U Medium i Premium objekte/!U sve objekte
+6/Šta treba da sadrži izveštaj o store check-u?/Naziv, adresu objekta i slike planograma/Slike promotivnog materijala i komentare/!Sve navedeno
+7/Kakva može biti zbirna faktura?/Nedeljna zbirna faktura/!Nedeljna i dnevna zbirna faktura/Mesečna, nedeljna i dnevna zbirna faktura
+7/Koji dokument se izdaje u objektu kupca koji je na zbirnom fakturisanju?/!Otpremnica/Zbirna faktura/Otpremnica i zbirna faktura
+7/Koji kupac nije na zbirnom fakturisanju?/Nis/Mercator/!Delhaize
+7/Šta znači F8?/!Otpremnica zbirne fakture/Zbirna faktura/Import backoffice
+7/Šta znači ZCS?/Otpremnica zbirne fakture/!Import back office/EDI ili tablet
+7/Šta znači ZHC?/Otpremnica zbirne fakture/Import back office/!EDI ili tablet
+7/Šta znači ZPMZ?/Otpremnica zbirne fakture/!Zbirna faktura/Povrat
+7/Šta znači ZRG?/!Povrat/Otpremnica zbirne fakture/Zbirna faktura
+7/Šta znači ZCS2?/Povrat/!Storno/Importbackoffice
+7/Šta znači ZHCS?/!Storno/Povrat/EDI ili tablet
+7/Koji tip fakture se briše iz izveštaja?/!ZHCS/F8/ZCS
+7/Šta je direct debit?/!Ugovor po kojem Nelt samostalno skida sredstva sa računa kupca/Ukupan dug kupca/Broj dana kašnjenja kupca
+7/Koji postoje načini trebovanja?/Preko tableta i mail-a/Preko e-order platforme i EDI-ja/!Sve navedeno
+7/Šta je EDI?/E-order platforma/!Operativni sistem kupca koji omogućava kompatibilnost podataka/Oznaka za trebovanje preko tableta
+7/Šta je GLN?/!JMBG objekta/Barkod artikla/Mesto isporuke
+7/Šta je GTLM?/Mesto isporuke/!Barkod artikla/Šifra artikla
+8/Šta se otvara u sistemu kada se otvara novi objekat?/!Mesto isporuke/Novi asortiman/Nove šifre artikala
+8/Ko izdaje licencu za duvan?/Kupac/Philip Morris/!Uprava za duvan
+8/Gde su vidljive sve izdate licence?/!Na sajtu Uprave za duvan/Na sajtu Philip Morris-a/U bazi duvanskih licenci
+8/Da li je moguće započeti isporuku objektima koji nemaju licencu?/Da/!Ne/Da, ukoliko će je nabaviti u roku od 15 dana
+8/Šta nije potrebno uraditi da bi se otvorilo novo mesto isporuke u sistemu?/Pribaviti licencu za duvan/Popuniti kartu kupca/!Pribaviti inicijalno trebovanje
+8/Šta je inicijalno trebovanje?/Standardno trebovanje za objekat koji pripada određenoj kategorizaciji/Preporučeno trebovanje prilikom otvaranja novih objekata/!Prvo trebovanje novootvorenog objekta
+8/Šta treba upisati u kartu kupca pod „Šifra komercijaliste“ ?/!Radni centar komercijaliste/Oznaku tima kojem pripada komercijalista/Oba navedena
+8/Šta znači ruta?/Radni centar/Region kojem pripada objekat/!Dan predviđen za trebovanje objekta
+8/Kako se dodeljuje RC i ruta za novo mesto isporuke?/Dodeli se radnom centru koji ima najmanji broj objekata/!Proveri se koji radni centar radi objekte u blizini novootvorenog/Moguća su oba načina
+8/Koga je potrebno uključiti u komunikaciju prilikom otvaranja novog mesta isporuke?/CS, sve supervizore, sve prodavce i Back office/CS, Backoffice, sve supervizore i TCC_PMI/!CS, Backoffice, TCC_PMI
+8/Ko dodeljuje TCR-a za novo mesto isporuke?/KAM/PSS/!TCC
+9/Od čega je skraćenica KPI?/!Key performance indicators/Ključni poslovni indikatori/Key price indicators
+9/Za šta služi KPI?/Za merenje prodaje/Za praćenje troškova/!Za merenje uspešnosti organizacije
+9/Koliko KPI-eva ima PMI?/4/!6/10
+9/Koji je osnovni KPI, za koji Nelt dobija naknadu?/!Volumen/AV Check/Povećanje prodaje IQOS uređaja
+9/Na kom nivou PMI prati volumen?/Na mesečnom nivou/!Na mesečnom i godišnjem nivou/Na dnevnom, mesečnom i godišnjem nivou
+9/Kako se vrši plaćanje Neltu za prodaju FMC kategorije?/Fiksna naknada po svakoj prodatoj paklici/!U zavisnosti od dostignutog targeta/Kombinacija prethodno navedenog
+9/Kako se vrši plaćanje Neltu za prodaju HEETS kategorije?/!Fiksna naknada po svakoj prodatoj paklici/U zavisnosti od dostignutog targeta/Kombinacija prethodno navedenog
+9/Šta pokazuje Run rate?/!Na koliko bismo završili mesec da svaki dan do kraja meseca prodajemo kao do sada/Koliko još imamo prodajnih dana do kraja meseca/Koliko ćemo biti ispod/iznad cilja ako nastavimo ovakvim tempom do kraja meseca
+9/Šta pokazuje RR.vs Target?/Na koliko bismo završili mesec da svaki dan do kraja meseca prodajemo kao do sada/!Koliko ćemo biti ispod ili iznad cilja ako nastavimo ovakvim tempom do kraja meseca/Koliko nam je još potrebno da bi ostvarili target do kraja meseca
+9/U čemu se izražava projekcija prodaje?/!U milionima stikova/U paklicama/Novčano, u RSD i evrima
+9/Šta uzimamo u obzir pri projekciji?/Prosek u prethodnim mesecima po danima i korekcija za indeks pada ili rasta tržišta/Veliki loading prethodnog meseca/!Sve navedeno
+9/Šta je AV check?/!Razlika između handlinga i OOS/Provera vidljivosti proizvoda u objektu/Provera da li su neki artikli OOS
+9/Šta je handling u KA kanalu?/Artikli poručeni u poslednje četiri nedelje/Top 10 artikala PMI/!Dogovoreni asortiman
+9/Da li se AV Check plaća Neltu?/Da/!Ne/Jedino ukoliko je AV Check odrađen kod preko 90% objekata
+9/Koji su strateški KPI-evi principala?/Svi kupci na e-order platformi i povećanje prodaje HEETS-a/Povećanje prodaje IQOS uređaja i HEETS stikova/!Povećanje prodaje IQOS uređaja i prebacivanje svih kupaca na e-order platformu
+9/Kako se najviše vrši povećanje prodaje IQOS-a?/!MGM i MTC/MGM, CE i TE/MTC, CE i TE
+9/Šta znači MGM?/Prodaja IQOS uređaja preko edukovanih shop asistanta/!Prodaja IQOS uređaja na bazi koda koji se deli/Promocija IQOS uređaja preko hostesa
+9/Šta znači MTC?/!Prikupljanje leadova od strane kupca/Promocija IQOS uređaja preko hostesa u LUMP objektima/Prodaja IQOS uređaja preko IQOS zona
